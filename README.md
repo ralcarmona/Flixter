@@ -10,7 +10,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/HyNIfOx"  ><a href="//imgur.com/a/HyNIfOx">flixapp1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=250><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HyNIfOx"  ><a href="//imgur.com/a/HyNIfOx">flixapp1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Notes
 I had to delete two files from a special folder it was called a ccfc311269d045a2c20f888ea4fbb203a5dc2d76bbca54385f6bb46ea3b64a3e_0 2.jar file 
