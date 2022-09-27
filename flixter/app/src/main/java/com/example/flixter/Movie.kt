@@ -1,8 +1,8 @@
 package com.example.flixter
 
 import android.os.Parcelable
-import kotlinx.android.parcel.Parcelize
 import kotlinx.parcelize.IgnoredOnParcel
+import kotlinx.parcelize.Parcelize
 import org.json.JSONArray
 
 @Parcelize
